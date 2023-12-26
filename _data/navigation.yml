@@ -3,11 +3,9 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   
-  
+
    - title: "Home"
      url: https://ycchen6.github.io/
-   - title: "About"
-     url: /about/
    - title: "Work"
      url: /work/
    - title: "Updates"
