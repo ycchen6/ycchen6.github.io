@@ -6,4 +6,4 @@ header:
 ---
 
 **Hi! I'm Yichuan Chen (陈一川)**, a senior at the University of Michigan studying psychology and computer science.
-This is my personal website, where I aggregate things like my [work](/work/) and [updates](/updates/). Feel free to take a look around! 
+This is my personal website, where I share things like my [work](/work/) and [updates](/updates/). Feel free to take a look around! 🚀✨
