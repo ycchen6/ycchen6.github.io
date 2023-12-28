@@ -6,4 +6,4 @@ header:
   overlay_image: /assets/images/grinnell_winter.jpg
 ---
 
-This is others page!
+# Others
