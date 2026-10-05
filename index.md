@@ -6,5 +6,7 @@ header:
 ---
 # Home
 
-**Hi! I'm Yichuan Chen (陈一川)**, a senior at the University of Michigan studying psychology and computer science.
+
+**Hi! I'm Yichuan Chen (陈一川)**, a Neuroscience PhD student at FSU.
 This is my personal website, where I share things like my [work](/work/) and [updates](/updates/). Feel free to take a look around!
+
