@@ -107,12 +107,12 @@ author:
   name             : "Yichuan Chen"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Neuroscience PhD student @ FSU"
-  location         : "Ann Arbor, MI"
+  location         : "Tallahassee, FL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chenaust@umich.edu"
+      url: "mailto:yc24b@fsu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
